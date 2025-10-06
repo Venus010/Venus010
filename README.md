@@ -1,4 +1,4 @@
-![Venus Banner](https://cdn.discordapp.com/attachments/1283814194701013096/1424815592476770454/venusbanner.png?ex=68e5526d&is=68e400ed&hm=1d56b70cc22d0a3cc7c1cb62b478d78dd91c983c433cecae7d9e82b63e1e5d1e&)
+![Venus Banner](https://cdn.discordapp.com/attachments/1283814194701013096/1424824750945079397/github-header-banner_2.png?ex=68e55af4&is=68e40974&hm=f4e9345bd05632ff2f5ec97ad11cadcd4f256753515910be2ad87c4a7a9da706&)
 
 # 🚦 Venus | FiveM & Scripts
 

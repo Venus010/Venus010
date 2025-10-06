@@ -1,68 +1,28 @@
-![Venus Banner](https://cdn.discordapp.com/attachments/1283814194701013096/1424824750945079397/github-header-banner_2.png?ex=68e55af4&is=68e40974&hm=f4e9345bd05632ff2f5ec97ad11cadcd4f256753515910be2ad87c4a7a9da706&)
+![Banner](https://cdn.discordapp.com/attachments/1283814194701013096/1424824750945079397/github-header-banner_2.png?ex=68e55af4&is=68e40974&hm=f4e9345bd05632ff2f5ec97ad11cadcd4f256753515910be2ad87c4a7a9da706&)
 
-# 🚦 Venus | FiveM & Scripts
+# Venus010
 
-Welcome to the official GitHub of **Venus** – find free FiveM scripts, resources, and open-source projects.
-
----
-
-## 👤 About Venus
-
-Venus creates reliable scripts and tools for FiveM servers, focusing on performance and simplicity.  
-On GitHub, you’ll find **free resources** — not paid or premium content.
+Welcome!  
+Here you'll find only **free scripts** for FiveM.  
+Explore, use, and join the community!
 
 ---
-
-## 🆓 Free Script
-
-### [venus-fpshud](https://github.com/Venus010/venus-fpshud)
-A simple and effective FPS HUD for FiveM, available for everyone, completely free.
-
----
-
-## 🛒 Scripts & Tools
-
-Explore official resources and get paid content at:  
-**[Tebex Store](https://venusac.tebex.io/)**
-
----
-
-## 💬 Community & Support
-
-- [Discord Server](https://discord.gg/MpZ4FWdFW7) — support, updates, and discussion  
-- **Official Website of VENUSAC:** [www.venus-ac.com](https://www.venus-ac.com/)  
-- [Tebex Store](https://venusac.tebex.io/)
-
----
-
-## 🚀 Tech Stack
-
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![FiveM](https://img.shields.io/badge/FiveM-FF5500?style=for-the-badge)
-
----
-
-## 🏆 GitHub Achievements
-
-[![Venus Trophies](https://github-profile-trophy.vercel.app/?username=Venus010&theme=darkhub&column=7)](https://github.com/Venus010)
-
----
-
-## 📈 Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Venus010&color=blue)
 ![Followers](https://img.shields.io/github/followers/Venus010?label=Followers&style=social)
 ![Stars](https://img.shields.io/github/stars/Venus010?label=Stars&style=social)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![FiveM](https://img.shields.io/badge/FiveM-FF5500?style=flat-square)
+![Open Source](https://img.shields.io/badge/Open%20Source-yes-brightgreen?style=flat-square)
 
 ---
 
-## 💡 Fact
-
-On GitHub, we share only what’s free.  
-Quality scripts, no paywall.
+- Discord: [discord.gg/MpZ4FWdFW7](https://discord.gg/MpZ4FWdFW7)
+- Website: [venus-ac.com](https://www.venus-ac.com/)
+- Store: [venusac.tebex.io](https://venusac.tebex.io/)
 
 ---
 
-**Thanks for visiting!**  
-Check out the repos, join Discord, and stay in touch for updates.
+**Fact:**  
+We share only free scripts here. No paywalls, just open source for everyone.

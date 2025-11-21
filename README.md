@@ -1,4 +1,3 @@
-![Banner](https://cdn.discordapp.com/attachments/1283814194701013096/1424824750945079397/github-header-banner_2.png?ex=68e55af4&is=68e40974&hm=f4e9345bd05632ff2f5ec97ad11cadcd4f256753515910be2ad87c4a7a9da706&)
 
 # Venus010
 

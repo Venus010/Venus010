@@ -5,7 +5,7 @@
 ### FiveM Scripts — Free & Open Source
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/MpZ4FWdFW7)
-[![Website](https://img.shields.io/badge/Website-venus--ac.com-FF5500?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.venus-ac.com/)
+[![Website](https://img.shields.io/badge/Website-venus--ac.com-FF5500?style=for-the-badge&logo=googlechrome&logoColor=white)](https://venus-scripts-space.vercel.app/)
 [![Store](https://img.shields.io/badge/Store-Tebex-00A86B?style=for-the-badge)](https://venusac.tebex.io/)
 
 ---
